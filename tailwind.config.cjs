@@ -39,6 +39,12 @@ module.exports = {
       },
       leaf: {
         one: '#E0E7A1',
+      },
+      red: {
+        one: '#FF0000',
+      },
+      black: {
+        one: '#000000',
       }
     },
     extend: { 
